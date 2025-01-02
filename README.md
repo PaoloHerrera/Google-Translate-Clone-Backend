@@ -39,7 +39,7 @@ Para configurar y ejecutar este proyecto en tu entorno local, sigue estos pasos:
 1. Clona este repositorio:
 
   ```bash
-  git clone https://github.com/tu-usuario/Google-Translate-Clon-Backend.git
+  git clone https://github.com/PaoloHerrera/Google-Translate-Clon-Backend.git
   cd Google-Translate-Clon-Backend
   ```
 
